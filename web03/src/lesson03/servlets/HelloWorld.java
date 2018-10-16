@@ -8,7 +8,7 @@ import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 
-public class HelloWord implements Servlet {
+public class HelloWorld implements Servlet {
 	ServletConfig config;
 	@Override
 	public void destroy() {
